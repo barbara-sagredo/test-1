@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_solsa_test1.test_1_user" name="x_solsa_test1.test_1_user">97d47e541b6314543437db16cc4bcb3a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>slx.bs</sys_created_by>
+        <sys_created_on>2020-09-25 14:38:03</sys_created_on>
+        <sys_id>9bd47e541b6314543437db16cc4bcb3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>97d47e541b6314543437db16cc4bcb3a</sys_name>
+        <sys_package display_value="test1" source="x_solsa_test1">b4a4b2541b6314543437db16cc4bcbf8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test1">b4a4b2541b6314543437db16cc4bcbf8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_9bd47e541b6314543437db16cc4bcb3e</sys_update_name>
+        <sys_updated_by>slx.bs</sys_updated_by>
+        <sys_updated_on>2020-09-25 14:38:03</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
